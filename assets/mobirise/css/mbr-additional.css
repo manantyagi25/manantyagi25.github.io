@@ -729,7 +729,7 @@ a {
 .cid-svuwRe3I06 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -825,9 +825,9 @@ a {
   color: #bbbbbb;
 }
 .cid-svuUO8oePe {
+  background-attachment: fixed;
   padding-top: 5rem;
   padding-bottom: 4rem;
-  background-attachment: fixed;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-svuUO8oePe .card {
@@ -868,6 +868,20 @@ a {
 }
 .cid-svut0en6WY .bg-linkedin:hover {
   background: #005582;
+}
+.cid-svut0en6WY .bg-behance {
+  background: #0056ff;
+  color: #ffffff;
+}
+.cid-svut0en6WY .bg-behance:hover {
+  background: #0045cc;
+}
+.cid-svut0en6WY .bg-dribbble {
+  background: #ea4c89;
+  color: #ffffff;
+}
+.cid-svut0en6WY .bg-dribbble:hover {
+  background: #e51e6b;
 }
 .cid-svut0en6WY .bg-tiktok {
   background: #000000;
